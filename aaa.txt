@@ -1,3 +1,7 @@
 'Exercise 1-1.4, create a file' 
 "bbb"  
+<<<<<<< HEAD
 BBB
+=======
+AAA
+>>>>>>> 50a6f3c4a3f9d23096f3fc19d3abc3dd8082e40f
